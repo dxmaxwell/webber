@@ -1,0 +1,9 @@
+
+# Ignore build directories
+/dist/
+/build/
+
+
+# Ignore NetBeans project
+/nbproject
+/lib/nblibraries.properties
